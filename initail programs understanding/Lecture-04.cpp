@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 
-// FOR LOOP!
+// FOR LOOP!!
 // PROGRAM #01
 int n;
 cout<<"Enter Number limit: "<<endl;
